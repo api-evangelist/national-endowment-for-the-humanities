@@ -18,8 +18,8 @@ apis:
   - aid: national-endowment-for-the-humanities:national-endowment-for-the-humanities
     name: National Endowment for the Humanities
     tags:
-      - Humanities
       - Federal Government
+      - Humanities
     humanURL: https://www.neh.gov
     properties:
       - url: https://www.neh.gov
