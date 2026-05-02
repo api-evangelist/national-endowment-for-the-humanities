@@ -1,42 +1,48 @@
 # National Endowment for the Humanities (national-endowment-for-the-humanities)
-NEH is the nation's largest public funder of the humanities, which include history, philosophy, literature, language, ethics, law, archaeology, political theory, comparative religion, anthropology, sociology, and media and cultural studies.
+
+The National Endowment for the Humanities (NEH) is the nation's largest public funder of the humanities, which include history, philosophy, literature, language, ethics, law, archaeology, political theory, comparative religion, anthropology, sociology, and media and cultural studies. NEH does not publish a fully documented public REST API, but it offers a Funded Project Query Form API and bulk XML datasets covering all grants awarded since 1965, plus evaluator and panelist information from 1988 onward.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/national-endowment-for-the-humanities/refs/heads/main/apis.yml)
 
 ## Scope
 
-- **Type:** Index 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+- **Type:** Index
+- **Position:** Consuming
+- **Access:** 3rd-Party
 
-## Tags:
+## Tags
 
- - Federal Government, Humanities
+- Federal Government, Humanities, Grants, Open Data
 
 ## Timestamps
 
-- **Created:** 2024-12-03 
-- **Modified:** 2026-03-16 
+- **Created:** 2024-12-03
+- **Modified:** 2026-04-28
 
 ## APIs
 
-### National Endowment for the Humanities
-NEH is the nation's largest public funder of the humanities, which include history, philosophy, literature, language, ethics, law, archaeology, political theory, comparative religion, anthropology, sociology, and media and cultural studies.
+### NEH Funded Project Query API
 
-**Human URL:** [https://www.neh.gov](https://www.neh.gov)
+Funded Project Query Form API exposing programmatic access to NEH grant records. Documentation is published as a PDF describing query parameters and response structure.
 
+**Human URL:** [https://securegrants.neh.gov/publicquery/](https://securegrants.neh.gov/publicquery/)
 
-#### Tags:
+#### Tags
 
- - Humanities, Federal Government
+- Grants, Humanities, Query
 
 #### Properties
 
-- [Documentation](https://www.neh.gov)
+- [Documentation](https://securegrants.neh.gov/publicquery/api.pdf)
+- [Portal](https://securegrants.neh.gov/publicquery/main.aspx)
+- [BulkData](https://securegrants.neh.gov/open/data/)
 
 ## Common Properties
 
 - [Website](https://www.neh.gov/)
+- [OpenData](https://www.neh.gov/data)
+- [BulkData](https://securegrants.neh.gov/open/data/)
+- [Contact](https://www.neh.gov/about/contact)
 
 ## Maintainers
 
