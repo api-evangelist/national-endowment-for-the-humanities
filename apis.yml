@@ -9,7 +9,7 @@ description: >-
   Project Query Form API and bulk XML datasets covering all grants awarded
   since 1965, plus evaluator and panelist information from 1988 onward.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: https://raw.githubusercontent.com/api-evangelist/national-endowment-for-the-humanities/refs/heads/main/apis.yml
 created: '2024-12-03'
 modified: '2026-04-28'
