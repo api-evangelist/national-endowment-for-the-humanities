@@ -39,6 +39,8 @@ apis:
       - type: BulkData
         url: https://securegrants.neh.gov/open/data/
 common:
+  - type: DomainSecurity
+    url: security/national-endowment-for-the-humanities-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/national-endowment-for-the-humanities
   - type: Website
