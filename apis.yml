@@ -9,6 +9,17 @@ description: >-
   Project Query Form API and bulk XML datasets covering all grants awarded
   since 1965, plus evaluator and panelist information from 1988 onward.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: freemium
   onboarding: unknown
