@@ -38,7 +38,7 @@ created: '2024-12-03'
 modified: '2026-04-28'
 specificationVersion: '0.23'
 tags:
-  - Federal-Government
+  - Federal Government
   - Humanities
   - Grants
   - Open Data
@@ -47,6 +47,7 @@ tags_raw:
   - Humanities
   - Grants
   - Open Data
+  - Federal-Government
 apis:
   - aid: national-endowment-for-the-humanities:funded-project-query
     name: NEH Funded Project Query API
